@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">504040917456-9rie4bgchpk493fqvehj5as2b6d9c3qb.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://tako2-7f725.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">504040917456</string>
+    <string name="google_api_key" translatable="false">AIzaSyDdW5AR3x4ZsJ24KBc_6JVo6L1_maKhXZU</string>
+    <string name="google_app_id" translatable="false">1:504040917456:android:37ac7f7b097f5faf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDdW5AR3x4ZsJ24KBc_6JVo6L1_maKhXZU</string>
+    <string name="google_storage_bucket" translatable="false">tako2-7f725.appspot.com</string>
+    <string name="project_id" translatable="false">tako2-7f725</string>
+</resources>

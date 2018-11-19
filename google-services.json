@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "504040917456",
+    "firebase_url": "https://tako2-7f725.firebaseio.com",
+    "project_id": "tako2-7f725",
+    "storage_bucket": "tako2-7f725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504040917456:android:37ac7f7b097f5faf",
+        "android_client_info": {
+          "package_name": "com.example.tako2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504040917456-hmlgj51gguomr44jbobb223ck71l5t8k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tako2",
+            "certificate_hash": "a75ef96a380fb2efa84af81f1d80272949255015"
+          }
+        },
+        {
+          "client_id": "504040917456-9rie4bgchpk493fqvehj5as2b6d9c3qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdW5AR3x4ZsJ24KBc_6JVo6L1_maKhXZU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504040917456-9rie4bgchpk493fqvehj5as2b6d9c3qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
